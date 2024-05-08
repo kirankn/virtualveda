@@ -6,6 +6,7 @@ Expected output : {‘ ‘:2, ‘2’:1, ‘n’:1, ‘d’:1, ‘o’:1, ‘p�
 ![Image](./p24.png) -->
 
 ### Program
+[Download Source Code](./p24.py ':ignore')
 ```python
 #Count the number of times a character appears in a given string
 st = input("Enter a string: ")
@@ -36,6 +37,3 @@ Enter a string: acceleration
 Enter a string: Mississippi
 {'M': 1, 'i': 4, 's': 4, 'p': 2}
 ```
-
-### Source Code
-[Download Source Code](./p24.py ':ignore')

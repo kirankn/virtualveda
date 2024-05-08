@@ -4,6 +4,7 @@
 ![Image](./p9.png) -->
 
 ### Program
+[Download Source Code](./p9.py ':ignore')
 ```python
 #Program to print the table of a number
 num = int(input("Enter the number to display its multiplication table: "))
@@ -28,5 +29,3 @@ Multiplication Table:
 5  ×  9  =  45
 5  ×  10  =  50
 ```
-### Source Code
-[Download Source Code](./p9.py ':ignore')

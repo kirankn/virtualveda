@@ -4,6 +4,7 @@
 ![Image](./p6.png) -->
 
 ### Program
+[Download Source Code](./p6.py ':ignore')
 ```python
 #Program to check the eligibility for driving license
 name = input("What is your name? ")
@@ -28,5 +29,3 @@ What is your name? Jack
 What is your age? 16
 You are not eligible to apply for the driving license.
 ```
-### Source Code
-[Download Source Code](./p6.py ':ignore')

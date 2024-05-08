@@ -4,6 +4,7 @@
 ![Image](./p7.png) -->
 
 ### Program
+[Download Source Code](./p7.py ':ignore')
 ```python
 #Program to input five numbers and print largest and smallest numbers
 smallest = 0
@@ -31,5 +32,3 @@ Enter the number: 26
 The smallest number is 3
 The largest number is  40
 ```
-### Source Code
-[Download Source Code](./p7.py ':ignore')

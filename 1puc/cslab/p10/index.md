@@ -4,6 +4,7 @@
 ![Image](./p10.png) -->
 
 ### Program
+[Download Source Code](./p10.py ':ignore')
 ```python
 #Initializing the sum to zero
 sum = 0
@@ -23,5 +24,3 @@ print("The sum of digits of the number is",sum)
 Enter the number: 12345
 The sum of digits of the number is 15
 ```
-### Source Code
-[Download Source Code](./p10.py ':ignore')

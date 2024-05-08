@@ -4,6 +4,7 @@
 ![Image](./p16.png) -->
 
 ### Program
+[Download Source Code](./p16.py ':ignore')
 ```python
 userInput = input("Write a sentence: ")
 #Count the total number of characters in the text (including white spaces) which is the length of string
@@ -51,6 +52,3 @@ Total Digits:  1
 Total Special Characters:  12
 Total Words in the Input : 9
 ```
-
-### Source Code
-[Download Source Code](./p16.py ':ignore')

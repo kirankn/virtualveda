@@ -11,6 +11,7 @@
 ![Image](./p8.png) -->
 
 ### Program
+[Download Source Code](./p8.py ':ignore')
 ```python
 #Program to print the grade of the student
 n = float(input('Enter the percentage of the student: '))
@@ -38,5 +39,3 @@ Grade A
 Enter the percentage of the student: 72
 Grade C
 ```
-### Source Code
-[Download Source Code](./p8.py ':ignore')

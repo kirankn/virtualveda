@@ -4,6 +4,7 @@
 ![Image](./p25.png) -->
 
 ### Program
+[Download Source Code](./p25.py ':ignore')
 ```python
 no_of_std = int(input("Enter number of students: "))  
 result = {}  
@@ -42,5 +43,3 @@ Students who got more than 75 marks are:
 Anil
 Rani
 ```
-### Source Code
-[Download Source Code](./p25.py ':ignore')

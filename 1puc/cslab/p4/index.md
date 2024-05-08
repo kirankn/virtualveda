@@ -4,6 +4,7 @@
 ![Image](./p4.png) -->
 
 ### Program
+[Download Source Code](./p4.py ':ignore')
 ```python
 # Asking the user for principal, rate of interest and time
 P = float(input('Enter the principal: '))
@@ -25,5 +26,3 @@ Enter the rate of interest per annum: 10
 Enter the time in years: 2
 Amount payable: 120.0
 ```
-### Source Code
-[Download Source Code](./p4.py ':ignore')

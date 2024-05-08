@@ -4,6 +4,7 @@
 ![Image](./p21.png) -->
 
 ### Program
+[Download Source Code](./p21.py ':ignore')
 ```python
 #function to remove the duplicate elements
 def removeDup(list1):
@@ -48,5 +49,3 @@ Enter the elements:
 The list entered is: [10, 10, 15, 26, 15]
 The list without any duplicate element is: [10, 15, 26]
 ```
-### Source Code
-[Download Source Code](./p21.py ':ignore')

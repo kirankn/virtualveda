@@ -4,6 +4,7 @@
 ![Image](./p18.png) -->
 
 ### Program
+[Download Source Code](./p18.py ':ignore')
 ```python
 # replaceChar function to replace space with hyphen
 def replaceChar(string):
@@ -24,5 +25,3 @@ print("The new sentence is:",result)
 Enter a sentence: The quick brown fox jumps over the lazy dog
 The new sentence is: The-quick-brown-fox-jumps-over-the-lazy-dog
 ```
-### Source Code
-[Download Source Code](./p18.py ':ignore')

@@ -4,6 +4,7 @@
 ![Image](./p19.png) -->
 
 ### Program
+[Download Source Code](./p19.py ':ignore')
 ```python
 #defining a list
 list1 = [10, 20, 30, 40, 50, 60, 20, 50, 10, 30, 50, 30, 24, 45]
@@ -28,5 +29,3 @@ The list is: [10, 20, 30, 40, 50, 60, 20, 50, 10, 30, 50, 30, 24, 45]
 Which element occurrence would you like to count? 50
 The count of element 50 in the list is: 3
 ```
-### Source Code
-[Download Source Code](./p19.py ':ignore')

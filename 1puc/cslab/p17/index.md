@@ -4,6 +4,7 @@
 ![Image](./p17.png) -->
 
 ### Program
+[Download Source Code](./p17.py ':ignore')
 ```python
 #Changing a string to title case using title() function
 def convertToTitle(string):
@@ -42,6 +43,3 @@ The input string is already in title case
 Write a sentence: Superb
 The input string is of one word only
 ```
-
-### Source Code
-[Download Source Code](./p17.py ':ignore')

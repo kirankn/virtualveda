@@ -6,6 +6,7 @@ Note: A number or a string is called palindrome if it appears same when written 
 ![Image](./p11.png) -->
 
 ### Program
+[Download Source Code](./p11.py ':ignore')
 ```python
 #program to find if the number is a palindrome
 rev = 0
@@ -35,6 +36,3 @@ The entered number is a palindrome.
 Enter the number: 1234
 The entered number is not a palindrome.
 ```
-
-### Source Code
-[Download Source Code](./p11.py ':ignore')
