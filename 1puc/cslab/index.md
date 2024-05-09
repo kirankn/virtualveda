@@ -1,6 +1,6 @@
 # 1st PUC - Computer Science Lab Manual
 
-## Blueprint
+## Lab Examination Blueprint
 
 | No. | Item                                                        | Marks |
 |-----|-------------------------------------------------------------|-------|
